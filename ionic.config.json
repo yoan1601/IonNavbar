@@ -1,0 +1,7 @@
+{
+  "name": "example_navbar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
